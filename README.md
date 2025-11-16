@@ -51,12 +51,13 @@ I write **beginner-friendly ML and AI content** on Medium.
 - 🔹 [Data Preprocessing in Machine Learning](https://medium.com/@nikhilsborade3/how-machines-think-exploring-ai-ml-and-real-world-applications-a6b0cfb51da8)
 
 📝 **Read my blogs on Medium:**  
+✍️ [**Medium**](https://medium.com/@nikhilsborade3)
 
 ---
 
 ## 📫 Connect With Me  
 
-🌐 [**GitHub**](https://github.com/nikhilborade0412) |   💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) |   ✍️ [**Medium**](https://medium.com/@nikhilsborade3) |
+🌐 [**GitHub**](https://github.com/nikhilborade0412) |   💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) | 
 📧 **Email:** nikhilsborade3@gmail.com  
 
 ---
