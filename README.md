@@ -39,9 +39,27 @@ Currently focusing on **AI-driven projects, dashboards, and end-to-end model dev
 
 ---
 
+## ✍️ Blogs & Writing  
+
+I write **beginner-friendly ML and AI content** on Medium.
+
+📄 **Latest Topics I Write About:**  
+- 🔹 [KNN Performance Analysis](https://medium.com/@nikhilsborade3/choosing-the-right-k-for-knn-a-deep-dive-into-model-performance-86d8371fef78)
+  
+- 🔹 [Decision Trees Explained Simply](https://medium.com/@nikhilsborade3/data-preprocessing-in-machine-learning-turning-raw-data-into-reliable-predictions-71f701dac6fe)
+  
+- 🔹 [Data Preprocessing in Machine Learning](https://medium.com/@nikhilsborade3/how-machines-think-exploring-ai-ml-and-real-world-applications-a6b0cfb51da8)
+
+📝 **Read my blogs on Medium:**  
+
+---
+
 ## 📫 Connect With Me  
 
-🌐 [ **GitHub**](https://github.com/nikhilborade0412)  | 💼  [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412)  | 📧 **Email:**  nikhilsborade3@gmail.com  
+🌐 [**GitHub**](https://github.com/nikhilborade0412) |  
+💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) |  
+✍️ [**Medium**](https://medium.com/@nikhilsborade3) |
+📧 **Email:** nikhilsborade3@gmail.com  
 
 ---
 
