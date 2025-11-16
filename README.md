@@ -41,7 +41,7 @@ Currently focusing on **AI-driven projects, dashboards, and end-to-end model dev
 
 ## 📫 Connect With Me  
 
-🌐 [ **GitHub**](https://github.com/nikhilborade0412)  | 💼  [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412)  | 📧 [**Email**](nikhilsborade3@gmail.com)  
+🌐 [ **GitHub**](https://github.com/nikhilborade0412)  | 💼  [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412)  | 📧 [**Email:**]  nikhilsborade3@gmail.com  
 
 ---
 
