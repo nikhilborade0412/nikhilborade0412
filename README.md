@@ -69,9 +69,9 @@ I write **beginner-friendly ML and AI content** on Medium.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilborade0412&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nikhilborade0412&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
