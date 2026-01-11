@@ -16,14 +16,14 @@ Currently focusing on **AI-driven projects, dashboards, and end-to-end model dev
 
 ## ⚙️ Technical Skills
 
-- 💻 `Programming & Databases:` Python, SQL
-- 📊 `Data Analysis & Visualization:` Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- 🤖 `Machine Learning:` Classification, Regression, Clustering, Model Evaluation, scikit-learn
-- 🧬 `Deep Learning:` Neural Networks, TensorFlow, Keras
+- 💻 `Programming & Databases:`           Python, SQL
+- 📊 `Data Analysis & Visualization:`     Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- 🤖 `Machine Learning:`                  Classification, Regression, Clustering, Model Evaluation, scikit-learn
+- 🧬 `Deep Learning:`                     Neural Networks, TensorFlow, Keras
 - 💬 `Natural Language Processing (NLP):` Text Cleaning, Feature Extraction, ML-based NLP
-- 👁️ `Computer Vision:` Image Processing, CNN Fundamentals
-- 🧠 `Generative AI (GenAI):` Prompt Engineering, LLM Concepts, AI Applications
-- 🔍 `EDA & Data Preprocessing:` Data Cleaning, Feature Engineering, Scaling, Encoding
+- 👁️ `Computer Vision:`                   Image Processing, CNN Fundamentals
+- 🧠 `Generative AI (GenAI):`             Prompt Engineering, LLM Concepts, AI Applications
+- 🔍 `EDA & Data Preprocessing:`          Data Cleaning, Feature Engineering, Scaling, Encoding
 
 ---
 
