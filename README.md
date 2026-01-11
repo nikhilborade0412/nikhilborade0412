@@ -57,7 +57,7 @@ I write **beginner-friendly ML and AI content** on Medium.
 
 ## 📫 Connect With Me  
 
-🌐 [**GitHub**](https://github.com/nikhilborade0412) |   💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) | 
+🌐 [**GitHub**](https://github.com/nikhilborade0412) |   💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) | [**Portfolio**](https://nikhilborade0412.github.io/)
 📧 **Email:** nikhilsborade3@gmail.com  
 
 ---
