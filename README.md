@@ -147,7 +147,15 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 # 🐍 Contribution Graph Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -157,6 +165,10 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 🥇 **National Gold Medalist – 10th National ICF Dragon Boat Racing Championship (2022)**  
 📍 Lower Lake, Bhopal, Madhya Pradesh  
 🏛 Represented Maharashtra  
+
+Recognized at a national-level championship organized under the Indian Kayaking and Canoeing Association, affiliated with the Indian Olympic Association.
+
+This achievement reflects discipline, endurance, teamwork, and high-performance mindset — qualities I bring into my AI and ML career.
 
 ---
 
