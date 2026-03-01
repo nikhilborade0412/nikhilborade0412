@@ -144,7 +144,7 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 
 ---
 
-# 🐍 Contribution Graph Snake  
+# 🐍 Contribution Graph 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg"/>
