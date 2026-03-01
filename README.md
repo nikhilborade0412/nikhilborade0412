@@ -1,85 +1,129 @@
 <div align="center">
 
-# 👋 Hi, I'm **Nikhil Borade**
-### 🌟 *Passionate About Data, Driven by Curiosity*
+# <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikhil+Borade;AI%2FML+Engineer;Building+Scalable+ML+Systems;Turning+Data+Into+Decisions" />
+
+### 🚀 AI/ML Engineer | Data Scientist | NLP & GenAI Enthusiast  
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nikhilborade0412&label=Profile+Views&color=00f7ff&style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me  
-I'm a passionate **Data Science Enthusiast** who enjoys exploring datasets, uncovering insights, and building intelligent ML solutions.  
-I’m continuously sharpening my skills in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**.  
-Currently focusing on **AI-driven projects, dashboards, and end-to-end model development** to become an industry-ready Data Scientist.
+# 🧠 About Me  
+
+I build **end-to-end machine learning systems** — from data preprocessing to model deployment.
+
+🔹 Passionate about AI-driven problem solving  
+🔹 Focused on production-ready ML systems  
+🔹 Experienced in Streamlit + AWS deployment  
+🔹 Strong foundation in ML, NLP & Deep Learning  
+
+> “Models are useful. Deployed models are powerful.”
 
 ---
 
-## ⚙️ Technical Skills
+# ⚙️ Tech Stack  
 
-- 💻 `Programming & Databases:`           Python, SQL
-- 📊 `Data Analysis & Visualization:`     Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- 🤖 `Machine Learning:`                  Classification, Regression, Clustering, Model Evaluation, scikit-learn
-- 🧬 `Deep Learning:`                     Neural Networks, TensorFlow, Keras
-- 💬 `Natural Language Processing (NLP):` Text Cleaning, Feature Extraction, ML-based NLP
-- 👁️ `Computer Vision:`                   Image Processing, CNN Fundamentals
-- 🧠 `Generative AI (GenAI):`             Prompt Engineering, LLM Concepts, AI Applications
-- 🔍 `EDA & Data Preprocessing:`          Data Cleaning, Feature Engineering, Scaling, Encoding
+### 👨‍💻 Programming  
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
 
----
+### 🤖 Machine Learning  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F7FF)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00F7FF)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00F7FF)
 
-## 🚀 Featured Projects  
+### 📊 Visualization  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00F7FF)
+![Power BI](https://img.shields.io/badge/PowerBI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00F7FF)
 
-- 📈 **Exploring Market Trends in the Used Bike Market**  
-  Analytical project identifying pricing trends, brand performance, and demand patterns.
-
-- 🏠 **Real Estate BHK Analysis (Python)**  
-  Performed detailed EDA to understand pricing behavior and property variation by BHK type.
-
-- 📚 **Library Management System (SQL)**  
-  Complete SQL-based system for handling books, members, and transaction workflows.
-
-- ⚡ **Global EV Market Analysis Dashboard**  
-  Built a powerful Power BI dashboard showing worldwide EV adoption & market trends.
+### 🚀 Deployment  
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00F7FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F7FF)
 
 ---
 
-## ✍️ Blogs & Writing  
+# 🔥 Featured Projects  
 
-I write **beginner-friendly ML and AI content** on Medium.
+## 🧠 Sentiment Analysis using NLP  
+![NLP](https://img.shields.io/badge/NLP-Production_Model-00F7FF?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Deployed-00F7FF?style=flat-square)
 
-📄 **Latest Topics I Write About:**  
-- 🔹 [KNN Performance Analysis](https://medium.com/@nikhilsborade0412/choosing-the-right-k-for-knn-a-deep-dive-into-model-performance-86d8371fef78)
-  
-- 🔹 [Decision Trees Explained Simply](https://medium.com/@nikhilsborade0412/data-preprocessing-in-machine-learning-turning-raw-data-into-reliable-predictions-71f701dac6fe)
-  
-- 🔹 [Data Preprocessing in Machine Learning](https://medium.com/@nikhilsborade0412/how-machines-think-exploring-ai-ml-and-real-world-applications-a6b0cfb51da8)
-
-📝 **Read my blogs on Medium:**  
-✍️ [**Medium**](https://medium.com/@nikhilsborade0412)
+✔ End-to-end text preprocessing pipeline  
+✔ Compared Logistic Regression, Naive Bayes, SVM, Random Forest  
+✔ Achieved **92%+ F1-score**  
+✔ Deployed on AWS EC2 using Streamlit  
 
 ---
 
-## 📫 Connect With Me  
+## 🎯 Travel Package Purchase Prediction  
+![ML](https://img.shields.io/badge/ML-Classification-00F7FF?style=flat-square)
 
-🌐 [**GitHub**](https://github.com/nikhilborade0412) |   💼 [**LinkedIn**](https://www.linkedin.com/in/nikhilborade0412) | 👤 [**Portfolio**](https://nikhilborade0412.github.io/) | 
-📧 **Email:** nikhilsborade3@gmail.com  
+✔ Random Forest with Cross-Validation  
+✔ Feature Engineering for high-signal predictors  
+✔ Real-time Streamlit web application  
 
 ---
 
-## ⚡ GitHub Stats & Activity  
+## 📰 Fake News Detection  
+![Text Classification](https://img.shields.io/badge/Text-Classification-00F7FF?style=flat-square)
+
+✔ TF-IDF + Naive Bayes  
+✔ 93.7% Accuracy  
+✔ Automated misinformation detection  
+
+---
+
+## ⚡ Global EV Market Dashboard  
+![Power BI](https://img.shields.io/badge/PowerBI-Interactive_Dashboard-00F7FF?style=flat-square)
+
+✔ Global EV trends  
+✔ Regional adoption insights  
+✔ Manufacturer comparison  
+
+---
+
+# ✍️ Technical Writing & Blogs  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilborade0412&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilborade0412&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://medium.com/@nikhilsborade0412">
+    <img src="https://img.shields.io/badge/Read%20on-Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00F7FF"/>
+  </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nikhilborade0412&theme=tokyonight&hide_border=true" />
-</p> -->
+I write practical and beginner-friendly content on **Machine Learning, Data Science, and AI concepts**.
+
+🔹 Choosing the Right K for KNN – Performance Deep Dive  
+🔹 Decision Trees Explained Simply  
+🔹 Data Preprocessing in Machine Learning  
+
+> Teaching strengthens understanding. Writing sharpens thinking.
 
 ---
 
-## 🏆 GitHub Trophies  
+# 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilborade0412&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilborade0412&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=onedark&no-frame=true&margin-w=10" />
@@ -87,5 +131,30 @@ I write **beginner-friendly ML and AI content** on Medium.
 
 ---
 
-## 💡 Fun Fact  
-> **“Learning every day. Building every day. Growing every day.”**
+# 🏆 Achievement  
+
+🥇 National Gold Medalist – Canoe Kayak Championship (2022)
+
+---
+
+# 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/nikhilborade0412">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikhilborade0412/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="https://nikhilborade0412.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Learn Deeply • Build Practically • Deploy Confidently
+
+</div>
