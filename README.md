@@ -1,168 +1,140 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikhil+Borade;AI%2FML+Engineer;Building+Scalable+ML+Systems;Turning+Data+Into+Decisions" />
-
-### 🚀 AI/ML Engineer | Data Scientist | NLP & GenAI Enthusiast  
+# Nikhil Borade
+### AI/ML Engineer | Data Scientist | Machine Learning & NLP Specialist
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nikhilborade0412&label=Profile+Views&color=00f7ff&style=flat-square" />
+  <a href="https://github.com/nikhilborade0412">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nikhilborade0412/">LinkedIn</a> •
+  <a href="https://nikhilborade0412.github.io/">Portfolio</a> •
+  <a href="https://medium.com/@nikhilsborade0412">Medium</a>
 </p>
 
 </div>
 
 ---
 
-# 🧠 About Me  
+## About Me
 
-I build **end-to-end machine learning systems** — from data preprocessing to model deployment.
+I am an AI/ML Engineer focused on building **end-to-end machine learning systems** — from data preprocessing and feature engineering to model evaluation and production deployment.
 
-🔹 Passionate about AI-driven problem solving  
-🔹 Focused on production-ready ML systems  
-🔹 Experienced in Streamlit + AWS deployment  
-🔹 Strong foundation in ML, NLP & Deep Learning  
+My work centers around:
 
-> “Models are useful. Deployed models are powerful.”
+- Scalable machine learning pipelines  
+- Natural Language Processing systems  
+- Predictive modeling for business decision-making  
+- Deployment-ready AI applications using Streamlit and AWS  
 
----
-
-# ⚙️ Tech Stack  
-
-### 👨‍💻 Programming  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
-
-### 🤖 Machine Learning  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F7FF)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00F7FF)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00F7FF)
-
-### 📊 Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00F7FF)
-![Power BI](https://img.shields.io/badge/PowerBI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00F7FF)
-
-### 🚀 Deployment  
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00F7FF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F7FF)
+I believe strong engineering + practical deployment creates real impact — not just trained models.
 
 ---
 
-# 🔥 Featured Projects  
+## Technical Expertise
 
-## 🧠 Sentiment Analysis using NLP  
-![NLP](https://img.shields.io/badge/NLP-Production_Model-00F7FF?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Deployed-00F7FF?style=flat-square)
+### Programming
+Python, SQL
 
-✔ End-to-end text preprocessing pipeline  
-✔ Compared Logistic Regression, Naive Bayes, SVM, Random Forest  
-✔ Achieved **92%+ F1-score**  
-✔ Deployed on AWS EC2 using Streamlit  
+### Machine Learning
+Classification • Regression • Clustering • Cross-Validation • Model Optimization • Feature Engineering • ML Pipelines
 
----
+### Libraries & Frameworks
+Scikit-learn • Pandas • NumPy • TensorFlow • Keras • NLTK
 
-## 🎯 Travel Package Purchase Prediction  
-![ML](https://img.shields.io/badge/ML-Classification-00F7FF?style=flat-square)
+### NLP
+Text Preprocessing • Tokenization • Lemmatization • TF-IDF • Sentiment Analysis • Text Classification
 
-✔ Random Forest with Cross-Validation  
-✔ Feature Engineering for high-signal predictors  
-✔ Real-time Streamlit web application  
+### Deployment & Tools
+Streamlit • AWS EC2 • Git • GitHub • Power BI
 
 ---
 
-## 📰 Fake News Detection  
-![Text Classification](https://img.shields.io/badge/Text-Classification-00F7FF?style=flat-square)
+## Selected Projects
 
-✔ TF-IDF + Naive Bayes  
-✔ 93.7% Accuracy  
-✔ Automated misinformation detection  
+### Sentiment Analysis using NLP (Production Deployment)
+Built an end-to-end NLP pipeline to classify large-scale e-commerce reviews into positive and negative sentiment categories.
 
----
+- Implemented complete preprocessing pipeline (cleaning, tokenization, lemmatization)
+- Compared Logistic Regression, Naive Bayes, SVM, and Random Forest
+- Achieved 92%+ F1-score
+- Deployed as a live Streamlit application on AWS EC2
 
-## ⚡ Global EV Market Dashboard  
-![Power BI](https://img.shields.io/badge/PowerBI-Interactive_Dashboard-00F7FF?style=flat-square)
-
-✔ Global EV trends  
-✔ Regional adoption insights  
-✔ Manufacturer comparison  
+Impact: Enables scalable, real-time customer feedback analysis.
 
 ---
 
-# ✍️ Technical Writing & Blogs  
+### Travel Package Purchase Prediction
+Designed a machine learning model to identify high-probability customers for targeted sales outreach.
+
+- Random Forest with cross-validation
+- Feature engineering for behavioral and demographic signals
+- Interactive prediction interface using Streamlit
+
+Impact: Improves lead prioritization and sales efficiency.
+
+---
+
+### Fake News Detection using NLP
+Developed a text classification system using TF-IDF and Multinomial Naive Bayes.
+
+- 93.7% classification accuracy
+- Automated misinformation detection approach
+
+---
+
+### Global EV Market Analysis Dashboard
+Built a Power BI dashboard analyzing global EV adoption trends, regional growth, and manufacturer performance.
+
+---
+
+## Technical Writing
+
+I write clear, practical articles on Machine Learning and AI to strengthen conceptual understanding and simplify complex topics.
+
+Read here:  
+https://medium.com/@nikhilsborade0412
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://medium.com/@nikhilsborade0412">
-    <img src="https://img.shields.io/badge/Read%20on-Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00F7FF"/>
-  </a>
-</p>
-
-I write practical and beginner-friendly content on **Machine Learning, Data Science, and AI concepts**.
-
-🔹 Choosing the Right K for KNN – Performance Deep Dive  
-🔹 Decision Trees Explained Simply  
-🔹 Data Preprocessing in Machine Learning  
-
-> Teaching strengthens understanding. Writing sharpens thinking.
-
----
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilborade0412&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilborade0412&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilborade0412&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilborade0412&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph Snake  
+## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## Achievement
+
+National Gold Medalist  
+10th National ICF Dragon Boat Racing Championship (2022)  
+Lower Lake, Bhopal – Represented Maharashtra  
+
+This achievement reflects discipline, resilience, teamwork, and high-performance consistency — principles I apply directly to my engineering work.
+
+---
+
+## Contact
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🏆 Achievement  
-
-🥇 **National Gold Medalist – 10th National ICF Dragon Boat Racing Championship (2022)**  
-📍 Lower Lake, Bhopal, Madhya Pradesh  
-🏛 Represented: Maharashtra  
-
-Recognized at a national-level championship organized under the Indian Kayaking and Canoeing Association, affiliated with the Indian Olympic Association.
-
-This achievement reflects discipline, endurance, teamwork, and high-performance mindset — qualities I bring into my AI and ML career.
-
----
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="https://github.com/nikhilborade0412">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikhilborade0412/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-  <a href="https://nikhilborade0412.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF"/>
-  </a>
+  <a href="https://github.com/nikhilborade0412">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nikhilborade0412/">LinkedIn</a> •
+  <a href="https://nikhilborade0412.github.io/">Portfolio</a> •
+  <a href="https://www.instagram.com/nikhil_borade_0412/">Instagram</a>
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 Learn Deeply • Build Practically • Deploy Confidently
+Building practical AI systems that solve real-world problems.
 
 </div>
