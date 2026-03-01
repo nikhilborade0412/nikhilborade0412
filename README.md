@@ -31,20 +31,55 @@ I build **end-to-end machine learning systems** — from data preprocessing to m
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
 
+Core Concepts:  
+Data Structures • OOP • Functional Programming • Algorithmic Thinking
+
+---
+
 ### 🤖 Machine Learning  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00F7FF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F7FF)
+
+Supervised Learning • Unsupervised Learning • Model Evaluation • Cross Validation  
+Feature Engineering • Hyperparameter Tuning • Model Optimization  
+Classification • Regression • Clustering • Ensemble Methods  
+
+---
+
+### 🧠 Deep Learning  
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00F7FF)
+
+Neural Networks • CNN • RNN • ANN  
+Backpropagation • Loss Functions • Optimization Algorithms  
+
+---
+
+### 🗣 NLP & Generative AI  
+Text Preprocessing • Tokenization • Lemmatization • TF-IDF  
+Sentiment Analysis • Text Classification  
+Prompt Engineering • LLM Integration • Gemini API Integration  
+
+---
+
+### 📊 Data & Visualization  
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00F7FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00F7FF)
-
-### 📊 Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00F7FF)
 ![Power BI](https://img.shields.io/badge/PowerBI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00F7FF)
 
-### 🚀 Deployment  
+Data Cleaning • Exploratory Data Analysis (EDA) • Statistical Analysis  
+Dashboard Development • Data Visualization • Reporting  
+
+---
+
+### 🚀 Deployment & MLOps  
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00F7FF)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F7FF)
+
+Model Deployment • REST API Integration • AWS EC2 Hosting  
+Environment Management • Virtual Environments  
+Git Version Control • GitHub Actions (CI/CD Basics)  
+Model Serialization (Pickle / Joblib)
 
 ---
 
@@ -98,12 +133,6 @@ I build **end-to-end machine learning systems** — from data preprocessing to m
 
 I write practical and beginner-friendly content on **Machine Learning, Data Science, and AI concepts**.
 
-🔹 Choosing the Right K for KNN – Performance Deep Dive  
-🔹 Decision Trees Explained Simply  
-🔹 Data Preprocessing in Machine Learning  
-
-> Teaching strengthens understanding. Writing sharpens thinking.
-
 ---
 
 # 📊 GitHub Analytics  
@@ -123,22 +152,11 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 
 ---
 
-# 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 # 🏆 Achievement  
 
 🥇 **National Gold Medalist – 10th National ICF Dragon Boat Racing Championship (2022)**  
 📍 Lower Lake, Bhopal, Madhya Pradesh  
 🏛 Represented Maharashtra  
-🏅 Event: D-10 Junior Men – 2000 Meters  
-
-Competed at a national-level championship affiliated with the Indian Olympic Association, demonstrating elite performance, discipline, teamwork, and endurance.
 
 ---
 
