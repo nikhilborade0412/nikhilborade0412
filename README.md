@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nikhil+Borade;AI%2FML+Engineer;Building+Scalable+ML+Systems;Turning+Data+Into+Decisions" />
 
-### 🚀 AI/ML Engineer | Data Scientist | NLP & GenAI Enthusiast  
+### 🚀 Aspiring AI/ML Engineer | Data Scientist | NLP & GenAI Enthusiast  
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nikhilborade0412&label=Profile+Views&color=1E90FF&style=flat-square" />
