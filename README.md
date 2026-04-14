@@ -135,7 +135,7 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 
 ---
 
-# 📊 GitHub Analytics  
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilborade0412&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
@@ -144,7 +144,7 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 
 ---
 
-# 🐍 Contribution Graph 
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhilborade0412/nikhilborade0412/output/github-contribution-grid-snake-dark.svg"/>
@@ -152,10 +152,10 @@ I write practical and beginner-friendly content on **Machine Learning, Data Scie
 
 ---
 
-# 🏆 GitHub Trophies  
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilborade0412&theme=onedark&no-frame=true&margin-w=10&row=2&column=4"/>
 </p>
 
 ---
